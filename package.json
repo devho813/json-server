@@ -1,0 +1,11 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "간단한 RESTful API 서버",
+  "main": "index.js",
+  "author": "devho813@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
